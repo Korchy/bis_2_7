@@ -13,6 +13,12 @@ Current version:
 -
 1.5.2
 
+**Attention!**
+
+This is the BIS version for Blender 2.79.
+
+Version for Blender 2.80 is developing here: https://github.com/Korchy/BIS
+
 Supported Blender versions:
 -
 
