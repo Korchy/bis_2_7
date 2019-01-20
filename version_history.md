@@ -1,5 +1,8 @@
 Version history:
 -
+1.5.3
+- Revision in shader, world, compositing nodes not to conflict with 2.8
+
 1.5.2
 - Added "Tools" section to Node editor panel
 - Added "Add input/output" tool in Node editor "Tools"
